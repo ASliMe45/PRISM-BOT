@@ -9,8 +9,8 @@ const settings = {
   maxStoreMessages: 20, 
   storeWriteInterval: 10000,
   description: "This is a bot for managing group commands and automating tasks.",
-  version: "1.0.2",
-  updateZipUrl: "https://github.com/mruniquehacker/Knightbot-MD/archive/refs/heads/main.zip",
+  version: "1.0.3a",
+  updateZipUrl: "https://github.com/ASliMe45/PRISM-BOT/archive/refs/heads/main.zip",
 };
 
 module.exports = settings;
