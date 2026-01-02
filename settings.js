@@ -9,7 +9,7 @@ const settings = {
   maxStoreMessages: 20, 
   storeWriteInterval: 10000,
   description: "This is a bot for managing group commands and automating tasks.",
-  version: "1.0.3a",
+  version: "1.0.3c",
   updateZipUrl: "https://github.com/ASliMe45/PRISM-BOT/archive/refs/heads/main.zip",
 };
 
